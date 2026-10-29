@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Leon Laiju 👋
 
-<!--
-**leonlaiju/leonlaiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE graduate passionate about software development, AI, and problem-solving. Skilled in Python, Java, and SQL, with hands-on experience in backend development and AI-powered robotics. Always learning and building.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- **Languages:** Python, Java, SQL
+- **Frameworks & AI:** Spring Boot, OpenCV, YOLOv8, NumPy, Pandas, RESTful APIs
+- **Databases & Tools:** MySQL, Git, GitHub, VS Code, Postman
+- **Core Engineering:** OOP, DSA, Hardware Integration (Raspberry Pi, Arduino), Embedded Systems
+
+---
+
+### 📂 Featured Project
+
+- 🟢 **[Spring Boot Backend & Login Integration](https://github.com/leonlaiju/springboot-login-backend)**  
+  *Secure authentication microservice executing user signup/login workflows, RESTful APIs, and database persistence via JPA/Hibernate and MySQL.*
+
+---
+
+### 🌐 Links & Portfolio
+
+- 💻 **Live Portfolio Site:** [leonlaiju.github.io/leonlaiju-portfolio/](https://leonlaiju.github.io/leonlaiju-portfolio/)
+- 💼 **LinkedIn:** [linkedin.com/in/leon-laiju](https://linkedin.com/in/leon-laiju)
